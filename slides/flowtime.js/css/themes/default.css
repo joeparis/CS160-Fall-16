@@ -51,8 +51,8 @@
 /* theme */
 
 html {
-  font-size: 150%;
-  line-height: 1.5rem;
+  font-size: 1rem;
+  /*line-height: 1.5em;*/
   background-color: #333333;
   color: #ffffff;
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.2);
@@ -107,36 +107,42 @@ body {
 }
 
 .flowtime h1 {
-  font-size: 3.5rem;
-  line-height: 3rem;
+  /*font-size: 3.5rem;
+  line-height: 3rem;*/
+  font-size: 5.063rem;
+  line-height: 7.594rem;
   margin: 1rem 0 2rem 0;
 }
 
 .flowtime h2 {
-  font-size: 2.5rem;
-  line-height: 2.5rem;
+  font-size: 3.375rem;
+  line-height: 5.063rem;
+  /*font-size: 2.5rem;
+  line-height: 2.5rem;*/
   margin: 2rem 0;
 }
 
 .flowtime h3 {
-  font-size: 2rem;
-  line-height: 2rem;
+  font-size: 2.25rem;
+  line-height: 3.375rem;
   margin: 2rem 0;
 }
 
 .flowtime h4,
 .flowtime h5,
 .flowtime h6 {
-  font-size: 1.75rem;
-  line-height: 2rem;
+  font-size: 1.5rem;
+  line-height: 2.25rem;
+  /*font-size: 1.75rem;
+  line-height: 2rem;*/
   margin: 2rem 0;
 }
 
 /* paragraph */
 
 .flowtime p {
-  font-size: 1.75rem;
-  line-height: 2rem;
+  font-size: 1.5rem;
+  line-height: 2.25rem;
   margin: 2rem 0;
 }
 
@@ -145,8 +151,9 @@ body {
 .flowtime ul,
 .flowtime ol,
 .flowtime dl {
-  font-size: 1.75rem;
-  line-height: 2rem;
+  font-size: 1.618rem;
+  /*font-size: 1.75rem;
+  line-height: 2rem;*/
   margin: 2rem 0;
 }
 
@@ -185,7 +192,8 @@ body {
 .flowtime ol li:before {
   content: counter(list) ".";
   counter-increment: list;
-  font-size: 0.75em;
+  font-size: 0.618rem;
+  /*font-size: 0.75em;*/
   color: #ffdd00;
   margin-right: 0.5rem;
   display: inline-block;
@@ -231,7 +239,7 @@ body {
 }
 
 .flowtime blockquote {
-  font-size: 1.5rem;
+  font-size: 1.618rem;
   margin: 1.5rem 2rem;
   padding: 1rem;
   background-color: rgba(0,0,0,0.3);
