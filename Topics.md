@@ -20,6 +20,8 @@ Watch
 For class on 9/28 read Section 1.4 in your textbook.
 Watch [Characters in a computer - ASCII Tutorial](https://youtu.be/B1Sf1IhA0j4)
 Watch [Characters in a computer - Unicode Tutorial (UTF-32 & UTF-16)](https://youtu.be/-oYfv794R9s)
+#### Stretch Goal
+Download and check out [Logisim](http://www.cburch.com/logisim/) - a free logic simulator. We'll be using it in class to explore digital logic.
 ## The Binary Number System
 ## Data Manipulation
 ## Operating Systems
@@ -28,7 +30,3 @@ Watch [Characters in a computer - Unicode Tutorial (UTF-32 & UTF-16)](https://yo
 ## Programming Languages
 ## Software Engineering
 ## Data Abstractions
-
-
-How Computer Memory Works - Computerphile
-https://www.youtube.com/watch?v=XETZoRYdtkw
