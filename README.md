@@ -62,9 +62,7 @@ Assignments may not be submitted via e-mail.
 Written assignments must be word processed and spell- and grammar-checked.
 
 ### Quizzes ###
-Quizzes will be given the last class period of each week with the exception of Weeks 1, 9 & 10. 
-
-The lowest quiz score will be dropped.
+Quizzes will be given **daily**. Quizzes will cover general topics from the most recent reading or viewing and specific questions related to past topics. 
 
 ### Participation ###
 Because of the emphasis on collaboration in this class it is critical that you attend every day and actively engage in the classroom discussion.
