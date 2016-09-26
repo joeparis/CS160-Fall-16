@@ -39,9 +39,14 @@ Watch [Characters in a computer - Unicode Tutorial (UTF-32 & UTF-16)](https://yo
 
 Download and check out [Logisim](http://www.cburch.com/logisim/) - a free logic simulator. We'll be using it in class to explore digital logic.
 
-## The Binary Number System
-
 ## Data Manipulation
+* Computer Architecture
+* Machine Language
+* Program Execution
+* Arithmetic/Logic Instructions
+* Communication with Other Devices
+* Programming Data Manipulation
+* Other Arichitectures
 
 ## Operating Systems
 
