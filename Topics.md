@@ -49,13 +49,48 @@ Download and check out [Logisim](http://www.cburch.com/logisim/) - a free logic 
 * Other Arichitectures
 
 ## Operating Systems
+* The History of Operating Systems
+* Operating System Architecture
+* Coordinating the Machine's Activities
+* Handling Competition Among Processes
+* Security
 
 ## Networking and the Internet
+* Network Fundamentals
+* The Internet
+* Security
 
 ## Algorithms
+* The Concept of an Algorithm
+* Algorithm Representation
+* Algorithm Discovery
+* Iterative Structures
+* Recursive Structures
+* Effeciency and Correctness
 
 ## Programming Languages
+* Historical Perspective
+* Traditional Programming Concepts
+* Procedural Units
+* Language Implementation
+* Object-Oriented Programming
 
 ## Software Engineering
+* The Software Engineering Discipline
+* The Software Lifecycle
+* Software Engineering Methodologies
+* Modularity
+* Tools of the Trade
+* Quality Assurance
+* Documentation
+* The Human-Machine Interface
+* Software Ownership and Liability
 
 ## Data Abstractions
+* Basic Data Structures
+* Related Concepts
+* Implementing Data Structures
+* A Short Case Study
+* Customized Data Types
+* Classes and Objects
+* Pointers in Machine Language
