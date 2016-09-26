@@ -1,8 +1,20 @@
 # Topics #
+
 ## Introduction
-We did this in class!
+
+We ~~did~~ tried to do this in class!
+
+* [What is an Algorithm?](https://www.youtube.com/embed/6hfOvs8pY1k)
+* [Larry Wall on Computer Programming](https://www.youtube.com/embed/UScm9avQM1Y)
+* [Computer Hardware &amp; Software Part 1](https://www.youtube.com/embed/8UyJMiYqvs4)
+* [Computer Hardware &amp; Software Part 2](https://www.youtube.com/embed/gaN1SKti3ts)
+* [A *Brief* History of the Computer](https://www.youtube.com/embed/97HvcEPHsyI)
+* [The Computer that Started Microsoft and Apple](https://www.youtube.com/embed/X5lpOskKF9I)
+
 ## Data Storage
+
 ### Bits and Their Storage
+
 For class on 9/28 read Section 1.1 in your textbook.
 
 Watch [Inside your computer](https://youtu.be/AkFi90lZmXA)
