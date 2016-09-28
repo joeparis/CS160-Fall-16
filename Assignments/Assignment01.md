@@ -1,5 +1,3 @@
-**Joe: Have them create and share a folder on Google Drive**
-
 Open a word processor (Microsoft Word, Google Docs, anything that will allow you to add both text and graphics) and answer the following questions. Discuss the questions and your answers with your peers in your group. Put your name and the names of your group members at the top of your document.
 
 Answers to all the Questions & Exercises in the book can be found in Appendix F. This can be invaluable when checking your understanding.
