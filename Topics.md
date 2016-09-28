@@ -12,36 +12,45 @@ We ~~did~~ tried to do this in class!
 * [The Computer that Started Microsoft and Apple](https://www.youtube.com/embed/X5lpOskKF9I)
 
 ## Data Storage
-For class on 9//28:
+For class on 9//28 read Sections 1.1 through 1.4 in your textbook. The following videos may also be helpful in understanding the information.
 
-### Bits and Their Storage
+* Bits and Their Storage
+ * [Inside your computer](https://youtu.be/AkFi90lZmXA)
+ * [Logic Gates Tutorial](https://youtu.be/Aw53UIwnJqU)
+ * [Digital Design Fundamentals](https://youtu.be/kOE1GXge11k)
+ * [Binary, Decimal and Hexadecimal Number Systems](https://youtu.be/_97OwCkjh3c)
+* Main Memory
+ * [Memory in a computer system](https://youtu.be/F0Ri2TpRBBg)
+ * [How computer memory works](https://youtu.be/p3q5zWCw8J4)
+* Mass Storage
+ * [How do hard drives work?](https://youtu.be/wteUW2sL7bc)
+ * [Explaining SSDs (2014 Update)](https://youtu.be/TFoOyPXYJ-E)
+ * [How Does Flash Drive Work](https://youtu.be/hjl5boYJOZI)
+ * [How CD and DVD Rom Works](https://youtu.be/HVqzji7PHIE)
+ * [Blu-ray As Fast As Possible](https://youtu.be/SqUUHizWrpY)
+* Representing Information as Bit Patterns
+ * [Characters in a computer - ASCII Tutorial](https://youtu.be/B1Sf1IhA0j4)
+ * [Characters in a computer - Unicode Tutorial (UTF-32 & UTF-16)](https://youtu.be/-oYfv794R9s)
+* Stretch Goal
+ * Download and check out [Logisim](http://www.cburch.com/logisim/) - a free logic simulator. We'll be using it in class to explore digital logic.
 
-* Read Section 1.1 in your textbook.
-* Watch [Inside your computer](https://youtu.be/AkFi90lZmXA)
-* Watch [Logic Gates Tutorial](https://youtu.be/Aw53UIwnJqU)
-* Watch [Digital Design Fundamentals](https://youtu.be/kOE1GXge11k)
-* Watch [Binary, Decimal and Hexadecimal Number Systems](https://youtu.be/_97OwCkjh3c)
+For class on 10/3 read Sections 1.5 through 1.8 in your textbook. The following videos may also be helpful in understanding the information.
 
-### Main Memory
-
-* Read Section 1.2 in your textbook.
-* Watch [Memory in a computer system](https://youtu.be/F0Ri2TpRBBg)
-* Watch [How computer memory works](https://youtu.be/p3q5zWCw8J4)
-
-### Mass Storage
-
-* Rad Section 1.3 in your textbook.
-* tch [How do hard drives work?](https://youtu.be/wteUW2sL7bc)
- 
-### Representing Information as Bit Patterns
-
-* Read Section 1.4 in your textbook.
-* Watch [Characters in a computer - ASCII Tutorial](https://youtu.be/B1Sf1IhA0j4)
-* Watch [Characters in a computer - Unicode Tutorial (UTF-32 & UTF-16)](https://youtu.be/-oYfv794R9s)
-
-#### Stretch Goal
-
-Download and check out [Logisim](http://www.cburch.com/logisim/) - a free logic simulator. We'll be using it in class to explore digital logic.
+* The Binary System
+ * [Binary Numbers](https://youtu.be/ry1hpm1GXVI)
+ * [Binary, Decimal and Hexadecimal Number Systems](https://youtu.be/_97OwCkjh3c)
+ * [Number Base Conversion Practice](https://youtu.be/Fpm-E5v6ddc)
+* Storing Integers
+ * [How to: Twos Complement](https://youtu.be/n6taPbsRqV4)
+* Storing Fractions
+ * [Fractional numbers in binary](https://youtu.be/Y4Q9PnjKhac)
+ * [Decimal To Binary Fraction Conversion](https://youtu.be/j8Ya6b27wEA)
+ * [Floating Point Notation for Binary Fractions](http://www.dcs.bbk.ac.uk/~sjmaybank/ICS/ICS%20week%203b.pdf)
+* Data and Programming
+ * [www.python.org](https://www.python.org/)
+ * [Python Programming Tutorial - 1 - Installing Python](https://youtu.be/HBxCHonP6Ro)
+ * [Python Programming Tutorial - 2 - Numbers](https://youtu.be/hnxIRVZ0EyU)
+ * [Python Programming Tutorial - 3 - Strings](https://youtu.be/nefopNkZmB4)
 
 ## Data Manipulation
 * Computer Architecture
