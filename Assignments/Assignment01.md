@@ -19,17 +19,3 @@ Answers to all the Questions & Exercises in the book can be found in Appendix F.
 9. If the computer cannot use hexidecimal directly why do we use it?
 10. Answer Chapter Review Problems 1 and 2 starting on page 73 of your textbook.
 
--## 1.2 Main Memory
-
-1. Answer Questions & Exercises 1–3 starting on page 29 of your textbook.
-2. Answer Chapter Review Problems 5, 6, 7, and 9 starting on page 74 of your textbook.
-
-## 1.3 Mass Storage
-
-1. Answer Questions & Exercises 1, 3, 5, and 6 starting on page 33 of your textbook.
-2. Answer Chapter Review Problem 11 on page 74 of your textbook.
-
-## 1.4 Representing Information as Bit Patterns
-
-1. Answer Questions & Exercises 1, 9, and 10  starting on page 39 of your textbook.
-2. Answer Chapter Review Problems 14, 15, 18, and 20 starting on page 74 of your textbook.-
