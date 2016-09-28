@@ -32,7 +32,7 @@ For class on 9//28 read Sections 1.1 through 1.4 in your textbook. The following
  * [Characters in a computer - ASCII Tutorial](https://youtu.be/B1Sf1IhA0j4)
  * [Characters in a computer - Unicode Tutorial (UTF-32 & UTF-16)](https://youtu.be/-oYfv794R9s)
 * Stretch Goal
- * Download and check out [Logisim](http://www.cburch.com/logisim/) - a free logic simulator. We'll be using it in class to explore digital logic.
+ * Download and check out [Logisim](https://drive.google.com/file/d/0B1ODsqqIQg7sMHl5WV9lcXhMS0E/view?usp=sharing) - a free logic simulator. We'll be using it in class to explore digital logic.
 
 For class on 10/3 read Sections 1.5 through 1.8 in your textbook. The following videos may also be helpful in understanding the information.
 
