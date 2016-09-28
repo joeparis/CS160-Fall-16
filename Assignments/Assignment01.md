@@ -2,7 +2,7 @@ Open a word processor (Microsoft Word, Google Docs, anything that will allow you
 
 Answers to all the Questions & Exercises in the book can be found in Appendix F. This can be invaluable when checking your understanding.
 
-**Due October 3**
+**Due October ?**
 
 # Chapter 1
 
@@ -19,7 +19,7 @@ Answers to all the Questions & Exercises in the book can be found in Appendix F.
 9. If the computer cannot use hexidecimal directly why do we use it?
 10. Answer Chapter Review Problems 1 and 2 starting on page 73 of your textbook.
 
-## 1.2 Main Memory
+--## 1.2 Main Memory
 
 1. Answer Questions & Exercises 1–3 starting on page 29 of your textbook.
 2. Answer Chapter Review Problems 5, 6, 7, and 9 starting on page 74 of your textbook.
@@ -32,4 +32,4 @@ Answers to all the Questions & Exercises in the book can be found in Appendix F.
 ## 1.4 Representing Information as Bit Patterns
 
 1. Answer Questions & Exercises 1, 9, and 10  starting on page 39 of your textbook.
-2. Answer Chapter Review Problems 14, 15, 18, and 20 starting on page 74 of your textbook.
+2. Answer Chapter Review Problems 14, 15, 18, and 20 starting on page 74 of your textbook.--
