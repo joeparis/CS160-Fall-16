@@ -2,6 +2,8 @@ Open a word processor (Microsoft Word, Google Docs, anything that will allow you
 
 Answers to all the Questions & Exercises in the book can be found in Appendix F. This can be invaluable when checking your understanding.
 
+**Due October 3**
+
 # Chapter 1
 
 ## 1.1 Bits and Their Storage
