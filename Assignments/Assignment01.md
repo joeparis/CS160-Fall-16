@@ -8,8 +8,8 @@ Answers to all the Questions & Exercises in the book can be found in Appendix F.
 
 ## 1.1 Bits and Their Storage
 
-1. Without looking them up try to draw the truth table for NOT, AND, OR, and XOR. Check your tables against those given in the book. How would you summarize each of these functions in just a few words?
-2. Now, draw the truth tables for NAND and NOR and summarize these functions as well.
+1. Without looking them up try to draw the truth table for NOT, AND, OR, and XOR. Check your tables against those given in the book. How would you summarize each of these functions in just a few words? Please describe any relationships you see between the operator's input and output.
+2. Now, draw the truth tables for NAND and NOR and summarize these functions as well. Please describe any relationships you see between the operator's input and output.
 3. What symbols are used to represent each of the gates above?
 4. Download [Logisim](https://drive.google.com/file/d/0B1ODsqqIQg7sMHl5WV9lcXhMS0E/view?usp=sharing) and double-click it to open the program (no installation is needed).
 5. In the Help menu click Tutorial and follow steps 0–4 to familiarize yourself with the program.
