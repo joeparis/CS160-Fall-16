@@ -34,7 +34,7 @@ For class on 9//28 read Sections 1.1 through 1.4 in your textbook. The following
 * Stretch Goal
  * Download and check out [Logisim](https://drive.google.com/file/d/0B1ODsqqIQg7sMHl5WV9lcXhMS0E/view?usp=sharing) - a free logic simulator. We'll be using it in class to explore digital logic.
 
-For class on 10/3 read Sections 1.5 through 1.8 in your textbook. The following videos may also be helpful in understanding the information.
+For class on 10/5 read Sections 1.5 through 1.8 in your textbook. The following videos may also be helpful in understanding the information.
 
 * The Binary System
  * [Binary Numbers](https://youtu.be/ry1hpm1GXVI)
