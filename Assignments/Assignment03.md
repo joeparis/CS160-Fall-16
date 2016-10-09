@@ -1,5 +1,7 @@
 ## 1.4 Representing Information as Bit Patterns
 
+** Due October 12 **
+
 All data inside your computer is encoded using only 1's and 0's, it's only how the computer interprets those bits that determines what they represent. Let's try an experiment to see what this means.
 
 1. Open notepad and type in the names of all the members of your group each on their own line.  Save the file as *names.txt* on the Desktop of your computer. Note: this step must be done in Notepad, not Word and not Google Docs. We want a simple text document for the time being.
@@ -10,9 +12,3 @@ All data inside your computer is encoded using only 1's and 0's, it's only how t
 6. Next, edit *names.txt* using hexed.it by entering the ASCII values you just looked up. When you are finished, use the **Export** button on the toolbar to save a copy of your edited file. Open it in notepad and describe what you see.
 7. Now, open a blank Word document and, again, write the names of your group members each on their own lines. Save the document as *names.docx* on the Desktop and open it in hexed.it. Describe what you see. Why do you think this is?
 8. Try opening several other files and file types. Perhaps some images or video or music files. What do you notice as you open each one? Write up your observations in the document you will be submitting for grading.
-
-## 1.5 The Binary System
-
-## 1.6 Storing Integers
-
-## 1.7 Storing Fractions
