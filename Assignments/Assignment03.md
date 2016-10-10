@@ -1,6 +1,6 @@
 ## 1.4 Representing Information as Bit Patterns
 
-** Due October 12 **
+**Due October 12**
 
 All data inside your computer is encoded using only 1's and 0's, it's only how the computer interprets those bits that determines what they represent. Let's try an experiment to see what this means.
 
