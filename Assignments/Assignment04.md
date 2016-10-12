@@ -1,11 +1,5 @@
-## 1.5 The Binary System
+## 1.5 The Binary System & 1.6 Storing Integers
 
-** Due ??? **
+**Due October 17**
 
-## 1.6 Storing Integers
-
-** Due ??? **
-
-## 1.7 Storing Fractions
-
-** Due ??? **
+Complete Chapter Review Problems 26, 27, 28, 29, 30, and 31 starting on page 75 of your text.
