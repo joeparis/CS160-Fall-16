@@ -51,6 +51,7 @@ For class on 10/5 read Sections 1.5 through 1.8 in your textbook. The following 
  * [Python Programming Tutorial - 1 - Installing Python](https://youtu.be/HBxCHonP6Ro)
  * [Python Programming Tutorial - 2 - Numbers](https://youtu.be/hnxIRVZ0EyU)
  * [Python Programming Tutorial - 3 - Strings](https://youtu.be/nefopNkZmB4)
+ * [Python Programming Tutorial - 4 - Slicing up Strings](https://youtu.be/YbipxqSKx-E)
 
 ## Data Manipulation
 * Computer Architecture
