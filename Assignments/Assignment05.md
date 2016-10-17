@@ -3,3 +3,5 @@
 **Due October 19**
 
 Complete Chapter Review Problems 33, 34, 35, 36, 37, 39, 55, and 59 starting on page 75 of your text.
+
+Also, read Chapter 2 for next class.
