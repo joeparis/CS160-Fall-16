@@ -8,4 +8,3 @@ Complete Questions & Exercises 1 through 12 starting on page 102 of your text.
 
 Complete Quiz 5 before class on October 31
 
-Read Chapter 3 for next class.
