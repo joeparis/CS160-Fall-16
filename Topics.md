@@ -63,10 +63,15 @@ For class on 10/5 read Sections 1.5 through 1.8 in your textbook. The following 
 * Other Arichitectures
 
 ## Operating Systems
-* The History of Operating Systems
-* Operating System Architecture
+* The History of Operating Systems   
+   * [A Short History of Operating Systems](https://youtu.be/5-DVay-Pkkw)   
+   * [XEROX ALTO - First workstation with Windows mouse & network](https://youtu.be/6_X04XwrUY8)   
+* Operating System Architecture   
+   * [Operating Systems 1 - Introduction](https://youtu.be/5AjReRMoG3Y?t=8s)   
 * Coordinating the Machine's Activities
+   * Operating Systems 3 - Process Manager Part 1](https://youtu.be/bS3QuOQgUu8?t=14s)
 * Handling Competition Among Processes
+   * [Operating Systems 3 - Process Manager Part 2](https://youtu.be/7FRW4iGjLrc?t=12s)
 * Security
 
 ## Networking and the Internet
