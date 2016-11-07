@@ -69,7 +69,7 @@ For class on 10/5 read Sections 1.5 through 1.8 in your textbook. The following 
 * Operating System Architecture   
    * [Operating Systems 1 - Introduction](https://youtu.be/5AjReRMoG3Y?t=8s)   
 * Coordinating the Machine's Activities
-   * Operating Systems 3 - Process Manager Part 1](https://youtu.be/bS3QuOQgUu8?t=14s)
+   * [Operating Systems 3 - Process Manager Part 1](https://youtu.be/bS3QuOQgUu8?t=14s)
 * Handling Competition Among Processes
    * [Operating Systems 3 - Process Manager Part 2](https://youtu.be/7FRW4iGjLrc?t=12s)
 * Security
