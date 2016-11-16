@@ -84,32 +84,9 @@ For class on 10/5 read Sections 1.5 through 1.8 in your textbook. The following 
 * Algorithm Representation
 * Algorithm Discovery
 * Iterative Structures
-* Recursive Structures
-* Effeciency and Correctness
-
-## Programming Languages
-* Historical Perspective
-* Traditional Programming Concepts
-* Procedural Units
-* Language Implementation
-* Object-Oriented Programming
-
-## Software Engineering
-* The Software Engineering Discipline
-* The Software Lifecycle
-* Software Engineering Methodologies
-* Modularity
-* Tools of the Trade
-* Quality Assurance
-* Documentation
-* The Human-Machine Interface
-* Software Ownership and Liability
-
-## Data Abstractions
-* Basic Data Structures
-* Related Concepts
-* Implementing Data Structures
-* A Short Case Study
-* Customized Data Types
-* Classes and Objects
-* Pointers in Machine Language
+* [Quick-sort with Hungarian (Küküllőmenti legényes) folk dance](https://youtu.be/ywWBy6J5gz8)
+* [Bubble-sort with Hungarian ("Csángó") folk dance](https://youtu.be/lyZQPjUT5B4)
+* [Insertion-sort with Romanian folk dance](https://youtu.be/EdIKIf9mHk0)
+* [Merge-sort with Transylvanian-saxon (German) folk dance](https://youtu.be/dENca26N6V4)
+* [15 Sorting Algorithms in 6 Minutes](https://youtu.be/kPRA0W1kECg)
+* [Towers of Hanoi](https://www.mathsisfun.com/games/towerofhanoi.html) ([Wikipedia](https://en.wikipedia.org/wiki/Tower_of_Hanoi))
